@@ -4,5 +4,8 @@
     },
     "editor.datatype.string_datatype": {
         "view": "editor.datatype_view.string_datatype_view"
+    },
+    "editor.datatype.path_datatype": {
+        "view": "editor.datatype_view.path_datatype_view"
     }
 }
